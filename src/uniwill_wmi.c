@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2021 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2021 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -381,7 +381,7 @@ static struct wmi_driver uniwill_wmi_driver = {
 
 module_wmi_driver(uniwill_wmi_driver);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("Driver for Uniwill WMI interface");
 MODULE_LICENSE("GPL");
 

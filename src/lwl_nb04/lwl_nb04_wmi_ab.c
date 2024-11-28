@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2023 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2023 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -385,7 +385,7 @@ static struct wmi_driver lwl_nb04_wmi_ab_driver = {
 
 module_wmi_driver(lwl_nb04_wmi_ab_driver);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("Driver for NB04 WMI AB methods");
 MODULE_LICENSE("GPL");
 

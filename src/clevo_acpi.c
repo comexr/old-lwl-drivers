@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2020 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2020 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -267,7 +267,7 @@ static struct acpi_driver clevo_acpi_driver = {
 
 module_acpi_driver(clevo_acpi_driver);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("Driver for Clevo ACPI interface");
 MODULE_LICENSE("GPL");
 

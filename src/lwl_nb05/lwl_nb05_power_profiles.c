@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2023-2024 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2023-2024 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -384,7 +384,7 @@ static struct wmi_driver lwl_nb05_power_profiles_driver = {
 
 module_wmi_driver(lwl_nb05_power_profiles_driver);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("Driver for NB05 power profiles");
 MODULE_LICENSE("GPL");
 

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2023 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2023 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -220,6 +220,6 @@ bool lwl_is_compatible(void) {
 }
 EXPORT_SYMBOL(lwl_is_compatible);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("Provide check for other modules if driver package is known compatible");
 MODULE_LICENSE("GPL");

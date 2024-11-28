@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2023-2024 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2023-2024 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -226,6 +226,6 @@ static void __exit lwl_nb05_sensors_exit(void)
 module_init(lwl_nb05_sensors_init);
 module_exit(lwl_nb05_sensors_exit);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("lwl Computers NB05 sensors driver");
 MODULE_LICENSE("GPL");

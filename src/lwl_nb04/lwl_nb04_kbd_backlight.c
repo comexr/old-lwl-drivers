@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2023 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2023 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -153,6 +153,6 @@ static void __exit lwl_nb04_kbd_backlight_exit(void)
 module_init(lwl_nb04_kbd_backlight_init);
 module_exit(lwl_nb04_kbd_backlight_exit);
 
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_DESCRIPTION("Driver for NB04 keyboard backlight");
 MODULE_LICENSE("GPL");

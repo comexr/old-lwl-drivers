@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*!
- * Copyright (c) 2019-2023 lwl Computers GmbH <tux@lwlcomputers.com>
+ * Copyright (c) 2019-2023 lwl Computers GmbH <tux@tuxedocomputers.com>
  *
  * This file is part of lwl-drivers.
  *
@@ -35,7 +35,7 @@
 #include <linux/led-class-multicolor.h>
 
 MODULE_DESCRIPTION("lwl Computers, ITE backlight driver");
-MODULE_AUTHOR("lwl Computers GmbH <tux@lwlcomputers.com>");
+MODULE_AUTHOR("lwl Computers GmbH <tux@tuxedocomputers.com>");
 MODULE_LICENSE("GPL");
 
 #define KEYBOARD_ROWS       6
