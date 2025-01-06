@@ -1,1 +1,1 @@
-remove-on-upgrade /etc/modprope.d/tuxedo_keyboard.conf
+remove-on-upgrade /etc/modprope.d/lwl_keyboard.conf
